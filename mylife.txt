@@ -2,3 +2,4 @@ hello dear!!
 second beautiful  line!
 added click button 
 collaborating with git 
+yes life
